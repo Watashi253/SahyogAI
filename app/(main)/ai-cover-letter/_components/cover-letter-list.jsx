@@ -23,7 +23,7 @@ import {
   AlertDialogTitle,
   AlertDialogTrigger,
 } from "@/components/ui/alert-dialog";
-import { deleteCoverLetter } from "@/actions/cover-letter";
+import { deleteCoverLetter } from "@/server/cover-letter";
 
 export default function CoverLetterList({ coverLetters }) {
   const router = useRouter();

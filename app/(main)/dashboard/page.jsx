@@ -1,6 +1,6 @@
-import { getIndustryInsights } from "@/actions/dashboard";
+import { getIndustryInsights } from "@/server/dashboard";
 import DashboardView from "./_component/dashboard-view";
-import { getUserOnboardingStatus } from "@/actions/user";
+import { getUserOnboardingStatus } from "@/server/user";
 import { redirect } from "next/navigation";
 
 export default async function DashboardPage() {
