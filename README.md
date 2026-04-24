@@ -16,18 +16,18 @@ Features:
 ```
 ```
 Teck Stack:
-Frontend: Next.js, Tailwind CSS, shadcn/ui
-Backend: Next.js API routes
-Database: Neon (PostgreSQL)
-ORM: Prisma
-Authentication: Clerk
-AI Integration: Gemini API
-Background Jobs: Inngest
+ Frontend: Next.js, Tailwind CSS, shadcn/ui
+ Backend: Next.js API routes
+ Database: Neon (PostgreSQL)
+ ORM: Prisma
+ Authentication: Clerk
+ AI Integration: Gemini API
+ Background Jobs: Inngest
 ```
 ```
-Future Improvements
-Add resume analysis and feedback system
-Improve recommendation accuracy
-Add dashboard analytics for users
-Deploy and optimize performance
+Future Improvements:
+ Add resume analysis and feedback system
+ Improve recommendation accuracy
+ Add dashboard analytics for users
+ Deploy and optimize performance
 ```
